@@ -1,5 +1,5 @@
 /**
- * Created by zhaoruoxu on 8/18/16.
+ * Haha.
  */
 public class Guoguo {
 
